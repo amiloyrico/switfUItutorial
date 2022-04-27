@@ -29,6 +29,7 @@ extension Image {
 struct ContentView: View {
     private let imageURL: String = "https://credo.academy/credo-academy@3x.png"
     
+    // HOLA  MUNDO
     
     var body: some View {
         //MARK: - 1. BASIC
